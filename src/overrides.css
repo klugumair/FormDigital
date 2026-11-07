@@ -1,0 +1,3 @@
+/* Layout adjustment after removing the project enquiry form. */
+.contact-section { display: block; }
+.contact-copy { max-width: 600px; }
